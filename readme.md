@@ -1,7 +1,7 @@
 
 # :space_invader: &nbsp;About Me
 <img align='right' size='50%' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> \
-👨‍🎓 Master's Studenet @[USDB](https://en.univ-blida.dz).\
+👨‍🎓 Master's Student @[USDB](https://en.univ-blida.dz).\
 🤗 Love for science and innovation.\
 👀 I’m interested in AI & DATA SCIENCE<br>🌱 Will be forever learning ...<br>⚡ Fun fact: (🐱‍👤 ∧ 🤖) → rule(🌍)
 
