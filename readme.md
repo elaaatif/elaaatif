@@ -13,7 +13,7 @@
 # GitHub Stats:
 <p align="center">
   
-<img height="50%" width="auto" align='left' src ="https://github-readme-stats.vercel.app/api?username=Elaaatif&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)">
+<img height="40%" width="auto" align='left' src ="https://github-readme-stats.vercel.app/api?username=Elaaatif&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)">
 <img height="40%" width="46%" align='right' src ="https://github-readme-streak-stats.herokuapp.com/?user=Elaaatif&theme=transparent&hide_border=true)">
 </p>
 
